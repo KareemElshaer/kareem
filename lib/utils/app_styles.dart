@@ -1,10 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
+
 import 'app_colors.dart';
 
 class Styles {
   static TextStyle bold16white = TextStyle(
     color: AppColors.white,
+    fontSize: 16,
+    fontWeight: FontWeight.bold,
+  );
+  static TextStyle bold16primary = TextStyle(
+    color: AppColors.primary,
     fontSize: 16,
     fontWeight: FontWeight.bold,
   );

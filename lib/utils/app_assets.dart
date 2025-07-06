@@ -28,4 +28,14 @@ class Assets {
   static const String suranumber = 'assets/images/Sura Number.png';
 
   static const String mosque = 'assets/images/Mask group.png';
+
+  static const String on1 = 'assets/images/on1.png';
+
+  static const String on2 = 'assets/images/on2.png';
+
+  static const String on3 = 'assets/images/on3.png';
+
+  static const String on4 = 'assets/images/on4.png';
+
+  static const String on5 = 'assets/images/on5.png';
 }
